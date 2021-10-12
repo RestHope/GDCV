@@ -7,4 +7,4 @@
 |[G4](https://github.com/RestHope/GDCV/blob/master/g4/cv_g4_augmentation.ipynb)|CutMix 또는 Mixup 비교 실험|
 |G5|Class Activation Map|
 |[G6](https://github.com/RestHope/GDCV/blob/master/g6/cv_g6_cam.ipynb)|CAM을 만들고 평가해 보자|
-
+|G7|Object Detection|
