@@ -8,3 +8,6 @@
 |G5|Class Activation Map|
 |[G6](https://github.com/RestHope/GDCV/blob/master/g6/cv_g6_cam.ipynb)|CAM을 만들고 평가해 보자|
 |G7|Object Detection|
+|G8|자율주행 보조 시스템|
+|G9|Segmentation|
+|[G10](https://github.com/RestHope/GDCV/blob/master/g10/cv_g10_semantic_segmentation.ipynb)|도로 영역을 찾자|
