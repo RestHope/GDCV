@@ -11,5 +11,5 @@
 |G8|자율주행 보조 시스템|
 |G9|Segmentation|
 |[G10](https://github.com/RestHope/GDCV/blob/master/g10/cv_g10_semantic_segmentation.ipynb)|도로 영역을 찾자|
-|G10|Ocr|
+|G11|Ocr|
 |[G12](x)|End-to-End|
