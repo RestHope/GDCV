@@ -12,4 +12,4 @@
 |G9|Segmentation|
 |[G10](https://github.com/RestHope/GDCV/blob/master/g10/cv_g10_semantic_segmentation.ipynb)|도로 영역을 찾자|
 |G11|Ocr|
-|[G12](x)|End-to-End|
+|[G12](https://github.com/RestHope/GDCV/blob/master/g12/cv_g12_eteOcr.ipynb)|End-to-End|
